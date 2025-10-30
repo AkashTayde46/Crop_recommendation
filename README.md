@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Health Diagnostics - Crop Recommendation System
 
 This is a machine learning-powered crop recommendation system that helps farmers choose the best crops based on soil conditions, weather data, and environmental factors.
@@ -168,3 +169,6 @@ curl -X POST http://localhost:5000/predict \
 ## License
 
 This project is part of the AgriAI application suite.
+=======
+# Crop_recommendation
+>>>>>>> 2b6ebe6e8966cca9159a4f34a75adfdfd1a86ce8
